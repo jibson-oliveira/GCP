@@ -8,10 +8,10 @@ A rede VPC é uma rede virtual disponibilizada pela Google para interconexão en
 ### Criando a rede VPC
 
 Por padrão o GCP já possui uma VPC padrão (default), porém poderemos criar outras redes. Para criar você deverá ir no menu lateral esquerdo e ir na opção "Rede VPC" , ou poderá  efetuar a busca através da barra de pesquisa.
-![](/images/menu-vpc.JPG)
+![](https://github.com/jibson-oliveira/GCP/blob/main/criando-vpc-vm-gcp/images/menu-vpc.JPG)
 
 Ao clicar no botão "criar rede VPC" você poderá iniciar dando um nome a sua nova rede. 
-![](/images/dashboard-vpc.JPG)
+![](https://github.com/jibson-oliveira/GCP/blob/main/criando-vpc-vm-gcp/images/dashboard-vpc.JPG)
 
 No exemplo abaixo foi utilizado o nome vpc-geral. Nessa mesma tela você poderá dar maiores descrições sobre a sua rede e poderá também ativar o IPv6.
 
